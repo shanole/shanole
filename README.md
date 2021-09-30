@@ -1,6 +1,7 @@
-### Shannon Lee
-## Full-stack Web Developer
+# Shannon Lee
+Full-stack Web Developer
 
 
-- 🔭 I’m currently working on my capstone project for Epicodus
-- 🌱 I’m currently learning React!
+☁️  Currently working on my capstone project for Epicodus, [moodcloud](https://github.com/shanole/moodcloud)
+
+🌱 Currently learning React!

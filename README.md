@@ -2,7 +2,7 @@
 __Full-stack Web Developer__
 
 
-⭐  Currently working at Allscripts
+⭐  Associate Software Engineer @ Allscripts
 
 ☁️ See my capstone project for Epicodus, [moodcloud](https://github.com/shanole/moodcloud)
 

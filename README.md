@@ -2,9 +2,11 @@
 __Full-stack Web Developer__
 
 
-☁️  Currently working on my capstone project for Epicodus, [moodcloud](https://github.com/shanole/moodcloud)
+⭐  Currently working at Allscripts
 
-🌱 Currently learning React!
+☁️ See my capstone project for Epicodus, [moodcloud](https://github.com/shanole/moodcloud)
+
+🌱 Currently learning Angular and React!
 
 <img height='25px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href='https://www.linkedin.com/in/shannonhjlee/'>LinkedIn</a>
 
@@ -15,6 +17,8 @@ __Full-stack Web Developer__
 <p>
   <img width='70px' height = '70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='70px' height = '70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width='70px' height='70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+
   <img width='70px' height = '70px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 

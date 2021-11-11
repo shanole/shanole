@@ -1,5 +1,5 @@
 # Shannon Lee
-__Full-stack Web Developer__
+__Full-stack Software Engineer__
 
 
 ⭐  Associate Software Engineer @ Allscripts
